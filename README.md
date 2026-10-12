@@ -13,7 +13,6 @@ A tool developed as part of my Electrical and Computer Engineering diploma thesi
 - **Technologies:** Salesforce, JavaScript, Node.js, Vue, Python, SQL
 - **Goal:** Make complex migration workflows more structured, repeatable, and easier to manage
 
-[Explore my repositories](https://github.com/georzaza)
 
 ## Technical Interests
 
