@@ -12,6 +12,8 @@ A tool developed as part of my Electrical and Computer Engineering diploma thesi
 - **Focus:** Data extraction, transformation, mapping, and loading
 - **Technologies:** Salesforce, JavaScript, Node.js, Vue, Python, SQL
 - **Goal:** Make complex migration workflows more structured, repeatable, and easier to manage
+- **Advantage over existing tools:** By turning the field mappings to an absolute spec, all pipelines are automated, including load order, extacted fields, and overall everything that would otherwise need to be configured on other common ETL tools like Informatica, which saves up tons of time from dev work.
+- **Load Order Mechanism:** An enhanced version of Khan's algorithm with edge cutting for fields that are dependent and create cycles (e.g. self-reference hierarchy fields).
 
 
 ## Technical Interests
